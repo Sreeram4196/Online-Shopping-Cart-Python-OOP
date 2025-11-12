@@ -1,0 +1,16 @@
+Product Name :Samsung Fold F4
+Price :48500
+Deal Price :47999
+Rating :5.0
+You Save :501
+Warrenty In Months :24
+
+Product Name :Chana Dal
+Price :5200
+Deal Price :5000
+Rating :4.8
+You Save :200
+Expiry Date :22-12-2023
+Quantity :2
+
+Total Bill :57999
